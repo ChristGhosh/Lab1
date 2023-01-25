@@ -1,5 +1,5 @@
-print class Me{
-	public static voice main(String [] args){
+public class Me{
+	public static void main(String [] args){
 		System.out.println("My name: Christ Ghosh");
 		System.out.println("My age: 18");
 		System.out.println("My age: Computer Engineering");
